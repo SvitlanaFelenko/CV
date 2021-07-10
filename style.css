@@ -1,0 +1,143 @@
+body {
+  background-color: #303030;
+  color: #ffffff;
+  font-family: "Lato", sans-serif;
+  font-size: 12px;
+}
+#container {
+  background-color: #303030;
+  color: #ffffff;
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.rectangle {
+  width: 960px;
+  margin: 25px;
+  text-align: center;
+}
+.square {
+  width: 30%;
+  float: left;
+}
+.square1 {
+  width: 70%;
+  float: left;
+}
+#logo {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 60px;
+  width: 600px;
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.tile1 {
+  float: left;
+  margin-top: 7px;
+  width: 230px;
+  height: 120px;
+  background-color: #bad7e9;
+  text-align: center;
+}
+.tile1:hover {
+  background-color: #88a2b3;
+}
+.tile2 {
+  float: left;
+  margin-top: 7px;
+  width: 230px;
+  height: 120px;
+  background-color: #dbbee9;
+  text-align: center;
+}
+.tile2:hover {
+  background-color: #af94bb;
+}
+.tile3 {
+  float: left;
+  margin-top: 7px;
+  width: 230px;
+  height: 120px;
+  background-color: #f3b8ce;
+  text-align: center;
+}
+.tile3:hover {
+  background-color: #c489a0;
+}
+
+.tile4 {
+  float: left;
+  margin: 10px;
+  width: 500px;
+  height: 475px;
+  background-color: #6d696e;
+  text-align: justify;
+  padding: 50px;
+  font-size: 20px;
+}
+.fb {
+  float: left;
+  margin: 23px;
+  width: 142px;
+  height: 142px;
+  background-color: #4668b3;
+}
+.fb:hover {
+  background-color: #263963;
+}
+.gplus {
+  float: left;
+  margin: 23px;
+  width: 142px;
+  height: 142px;
+  background-color: #d95333;
+}
+.gplus:hover {
+  background-color: #8b3520;
+}
+.ig {
+  float: left;
+  margin: 23px;
+  width: 142px;
+  height: 142px;
+  background-color: #d4ada3;
+}
+.ig:hover {
+  background-color: #a3867f;
+}
+a.tilelink {
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+}
+a.sociallink {
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+}
+a.tilelinkhtml5 {
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+}
+a.one:hover {
+  color: #c1e0f3;
+}
+a.one {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+  display: block;
+}
+li {
+  font-size: 15px;
+  text-indent: 5%;
+}
+ul {
+  font-size: 15px;
+}
+p {
+  font-size: 15px;
+  text-indent: 5%;
+}
